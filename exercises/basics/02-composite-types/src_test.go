@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	. "github.com/aubm/golang-codelab/exercises/basics/02-composite-types"
+	. "github.com/scraly/golang-codelab/exercises/basics/02-composite-types"
 )
 
 func TestMustReturnAnArrayOfThreeIntegers(t *testing.T) {

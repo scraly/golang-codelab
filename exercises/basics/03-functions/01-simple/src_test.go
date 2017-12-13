@@ -3,7 +3,7 @@ package basics_test
 import (
 	"testing"
 
-	. "github.com/aubm/golang-codelab/exercises/basics/03-functions/01-simple"
+	. "github.com/scraly/golang-codelab/exercises/basics/03-functions/01-simple"
 )
 
 func TestRed(t *testing.T) {

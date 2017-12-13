@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	. "github.com/aubm/golang-codelab/exercises/basics/01-basic-data-types"
+	. "github.com/scraly/golang-codelab/exercises/basics/01-basic-data-types"
 )
 
 func TestMustReturnAnInteger(t *testing.T) {

@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	. "github.com/aubm/golang-codelab/exercises/basics/03-functions/02-recursion"
+	. "github.com/scraly/golang-codelab/exercises/basics/03-functions/02-recursion"
 )
 
 var family = `{
